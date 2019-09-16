@@ -71,6 +71,6 @@ enter command: B 10 3 o
 
 enter command: Q
 
-#Solution
+# Solution
 Spring boot has been used for booting, configuration and running the App.
 Command Desing pattern has been used to excute various draw commands
